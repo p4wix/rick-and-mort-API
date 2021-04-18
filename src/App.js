@@ -1,7 +1,6 @@
-import logo from "./logo.svg";
-import RickAndMortyCharactersCards from "./components/RickAndMortyCharactersCards";
+import RickAndMortyCharactersCards from "./containers/RickAndMortyCharactersCards";
 
-import "./styles.css";
+import "./App.css";
 
 function App() {
 	return (
