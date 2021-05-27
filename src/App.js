@@ -1,5 +1,4 @@
 import RickAndMortyCharactersCards from "./containers/RickAndMortyCharactersCards";
-
 import "./App.css";
 
 function App() {
